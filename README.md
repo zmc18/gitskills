@@ -1,2 +1,2 @@
 # gitskills
-wozhenshidhlansldflsdnf@simple
+wozhenshidhlansldflsdnf@simpleDD
