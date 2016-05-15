@@ -2,6 +2,6 @@ dadasfdvd# gitskills
 <<<<<<< HEAD
 wozhenshidhlansldflsdnf@simpleDD
 =======
-wozhenshidhlansldflsdnf@simpleDD
+wozhenshidhladdsadfsdfsdfsdfsdfnsldflsdnf@simpleDD
 
 >>>>>>> featurel
